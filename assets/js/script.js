@@ -73,7 +73,7 @@ if(modelViewer){
   const modelsList = [
       'assets/models/Racoon.glb', 
       'assets/models/Triceratops.glb', 
-      'assets/models/Triceratops.glb',
+      'assets/models/Racing Car.glb',
       
   ];
 
