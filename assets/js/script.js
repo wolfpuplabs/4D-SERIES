@@ -71,9 +71,9 @@ if(modelViewer){
 
   // List all of your 3D model in the folder 'assets/models'
   const modelsList = [
-      'assets/models/a_letter.glb', 
-      'assets/models/b_letter.glb', 
-      'assets/models/c_letter.glb',
+      'assets/models/Racoon.glb', 
+      'assets/models/Triceratops.glb', 
+      'assets/models/Triceratops.glb',
       
   ];
 
